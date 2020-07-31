@@ -2,8 +2,9 @@
     margin: 2em auto 0 auto;
     max-width: 500px;
     color: grey;
-}
+    font-style: oblique;
 
-.top-panel{
-    margin: 1rem o;
+}
+.search-panel{
+    padding-bottom: 20px;
 }

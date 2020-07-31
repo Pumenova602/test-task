@@ -12,8 +12,9 @@
     line-height: 35px;
     cursor: pointer;
     user-select: none;
+    color: aqua;
   }
   
   .todo-list-item.done .todo-list-item-label {
-    color:aqua;
+    color:grey;
   }
